@@ -14,9 +14,12 @@ informations accesses the objective documentation of language.
 #### Documentation
 
 As has cited before ,the language to be focused in AI ,Machine anand other. To next any 
-information of  the language.
+information of  the language.
 
-
+**Paradigm: multiparadigm ,structural ,object-oriented ,functional
+Style type: fort ,static
+Extensions: .sum
+Author: Jonatha Gabriel**
 
 #### Contribution
 
