@@ -5,10 +5,10 @@ phase and is need contributions for that she realize this things. For more
 informations accesses the objective documentation of language.
 
 ### Contents
-*__ [Documentation](#documentation) __ <br />
-*__ [Contribution](#contribution) __ <br />
-*__ [License](#documentation) __ <br />
-*__ [Contributors](#contributors) __ <br />
++** [Documentation](#documentation) ** <br />
++** [Contribution](#contribution) ** <br />
++** [License] ** <br />
++** [Contributors] ** <br />
 
 -------------
 #### Documentation
