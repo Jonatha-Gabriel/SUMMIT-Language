@@ -1,6 +1,9 @@
 # Start
 # Documentation
 # Contribution
+For contribute with language is need accept is need accept the terms 
+of the license in *License*
+
 # Contributors
 
-`Jonatha Gabriel '- iniciou o idioma
+```Jonatha-Gabriel``` - started the language
