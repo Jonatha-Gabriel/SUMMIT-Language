@@ -16,10 +16,10 @@ informations accesses the objective documentation of language.
 As has cited before ,the language to be focused in AI ,Machine anand other. To next any 
 information of  the language.
 
-**Paradigm: multiparadigm ,structural ,object-oriented ,functional**
-**Style type: fort ,static**
-**Extensions: .sum**
-**Author: Jonatha Gabriel**
+**Paradigm: multiparadigm ,structural ,object-oriented ,functional** <br />
+**Style type: fort ,static** <br />
+**Extensions: .sum** <br />
+**Author: Jonatha Gabriel** <br />
 
 #### Contribution
 
